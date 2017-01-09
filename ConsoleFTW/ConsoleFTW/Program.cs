@@ -13,6 +13,7 @@ namespace ConsoleFTW
             // First program
             Console.WriteLine("First project");
             Console.WriteLine("Extra feature");
+            Console.WriteLine("Second feature");
         }
     }
 }
